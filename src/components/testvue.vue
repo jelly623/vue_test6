@@ -1,11 +1,14 @@
 <template>
    <div>
-      <br>
+     <el-main>
+       <br>
       <el-button type="primary">主要按钮</el-button>
       <el-button type="info">信息按钮</el-button>
       <h1>{{ message }}</h1>
       <h2>essential links</h2>
      <el-button type="info">信息按钮</el-button>
+     </el-main>
+      
     </div>
 
 

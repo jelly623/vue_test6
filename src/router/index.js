@@ -6,6 +6,7 @@ import testvue from '@/components/testvue'
 import home from '@/components/home'
 import firstpart from '@/components/home_components/firstpart'
 import secondpart from '@/components/home_components/secondpart'
+import testvue1 from '@/components/testvue1'
 
 Vue.use(Router)
 
@@ -21,6 +22,11 @@ export default new Router({
       path: '/testvue',
       name: 'testvue',
       component: testvue
+    },
+    {
+      path: '/testvue1',
+      name: 'testvue1',
+      component: testvue1
     },
     {
       path: '/home',

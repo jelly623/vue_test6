@@ -1,5 +1,5 @@
 <template>
-
+<div class="navbar">
   <el-menu theme="dark" :default-active="activeIndex"
            class="el-menu-demo" mode="horizontal" @select="handleSelect">
     <el-menu-item index="1">Home</el-menu-item>
@@ -16,6 +16,7 @@
     <el-menu-item index="5">Resume</el-menu-item>
     <el-menu-item index="5">About</el-menu-item>
   </el-menu>
+</div>
 </template>
 
 <script>
