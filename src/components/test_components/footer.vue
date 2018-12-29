@@ -1,6 +1,6 @@
 <template>
     <div class=title>
-        <h2>copyright © 航天信息股份有限公司 aisino.com All Rights Reserved. </h2>
+        <h2> </h2>
     </div>
 </template>
 

@@ -20,18 +20,6 @@
   </div>
 </template>
 
-
-
-<!--
-  <div id="app">
-    <mynavbar></mynavbar>
-    <router-view></router-view>
-    <myaside></myaside>
-    <mytestvue></mytestvue>
-    <myfooter></myfooter>
-    
-  </div>
-  -->
 </template>
 
 <script>
@@ -59,6 +47,11 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin: 0px;
+}
+body{
+  margin: 0px;
+	padding: 0px;
+  /* position: fixed */
 }
 
 </style>

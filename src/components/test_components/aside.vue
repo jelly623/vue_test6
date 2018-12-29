@@ -53,8 +53,6 @@
 
 <style> 
 .aside {
-    margin: 0;
-    font-size: 80px;
-    color: red
-
-  }
+  position: fixed
+}
+</style>

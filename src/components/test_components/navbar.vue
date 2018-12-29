@@ -37,5 +37,7 @@
 </script>
 
 <style scoped>
-
+.navbar {
+  position: fixed;
+}
 </style>
